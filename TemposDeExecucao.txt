@@ -1,0 +1,124 @@
+Tempo (1 thread): 83 ms
+Tempo (5 threads): 55 ms
+Tempo (10 threads): 53 ms
+
+Tempo (1 thread): 75 ms
+Tempo (5 threads): 50 ms
+Tempo (10 threads): 65 ms
+
+Tempo (1 thread): 79 ms
+Tempo (5 threads): 41 ms
+Tempo (10 threads): 54 ms
+
+Tempo (1 thread): 77 ms
+Tempo (5 threads): 47 ms
+Tempo (10 threads): 59 ms
+
+Tempo (1 thread): 83 ms
+Tempo (5 threads): 47 ms
+Tempo (10 threads): 56 ms
+
+Tempo (1 thread): 80 ms
+Tempo (5 threads): 50 ms
+Tempo (10 threads): 53 ms
+
+Tempo (1 thread): 74 ms
+Tempo (5 threads): 55 ms
+Tempo (10 threads): 61 ms
+
+Tempo (1 thread): 86 ms
+Tempo (5 threads): 49 ms
+Tempo (10 threads): 60 ms
+
+Tempo (1 thread): 78 ms
+Tempo (5 threads): 53 ms
+Tempo (10 threads): 58 ms
+
+Tempo (1 thread): 73 ms
+Tempo (5 threads): 54 ms
+Tempo (10 threads): 54 ms
+
+Tempo (1 thread): 73 ms
+Tempo (5 threads): 51 ms
+Tempo (10 threads): 60 ms
+
+Tempo (1 thread): 73 ms
+Tempo (5 threads): 45 ms
+Tempo (10 threads): 62 ms
+
+Tempo (1 thread): 83 ms
+Tempo (5 threads): 56 ms
+Tempo (10 threads): 61 ms
+
+Tempo (1 thread): 79 ms
+Tempo (5 threads): 49 ms
+Tempo (10 threads): 58 ms
+
+Tempo (1 thread): 86 ms
+Tempo (5 threads): 50 ms
+Tempo (10 threads): 56 ms
+
+Tempo (1 thread): 78 ms
+Tempo (5 threads): 50 ms
+Tempo (10 threads): 54 ms
+
+Tempo (1 thread): 84 ms
+Tempo (5 threads): 73 ms
+Tempo (10 threads): 51 ms
+
+Tempo (1 thread): 85 ms
+Tempo (5 threads): 61 ms
+Tempo (10 threads): 63 ms
+
+Tempo (1 thread): 82 ms
+Tempo (5 threads): 57 ms
+Tempo (10 threads): 68 ms
+
+Tempo (1 thread): 76 ms
+Tempo (5 threads): 54 ms
+Tempo (10 threads): 56 ms
+
+Tempo (1 thread): 79 ms
+Tempo (5 threads): 68 ms
+Tempo (10 threads): 54 ms
+
+Tempo (1 thread): 77 ms
+Tempo (5 threads): 42 ms
+Tempo (10 threads): 60 ms
+
+Tempo (1 thread): 70 ms
+Tempo (5 threads): 53 ms
+Tempo (10 threads): 55 ms
+
+Tempo (1 thread): 78 ms
+Tempo (5 threads): 53 ms
+Tempo (10 threads): 52 ms
+
+Tempo (1 thread): 81 ms
+Tempo (5 threads): 55 ms
+Tempo (10 threads): 57 ms
+
+Tempo (1 thread): 77 ms
+Tempo (5 threads): 44 ms
+Tempo (10 threads): 53 ms
+
+Tempo (1 thread): 76 ms
+Tempo (5 threads): 57 ms
+Tempo (10 threads): 58 ms
+
+Tempo (1 thread): 76 ms
+Tempo (5 threads): 51 ms
+Tempo (10 threads): 54 ms
+
+Tempo (1 thread): 75 ms
+Tempo (5 threads): 47 ms
+Tempo (10 threads): 61 ms
+
+Tempo (1 thread): 88 ms
+Tempo (5 threads): 52 ms
+Tempo (10 threads): 54 ms
+
+Tempo (1 thread): 80 ms
+Tempo (5 threads): 46 ms
+Tempo (10 threads): 60 ms
+
