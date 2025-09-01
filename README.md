@@ -65,11 +65,14 @@ E cria o arquivo Primos.txt, onde contém somente os números primos do arquivo 
 Utilize o site: https://pt.numberempire.com/primenumbers.php , ele verifica se o número no arquivo é realmente um primo, para comprovação da eficiência do código
 # Análise de Desempenho
 <img width="1653" height="993" alt="Gráfico" src="https://github.com/user-attachments/assets/83b4a782-267b-46d4-926e-7093991f85e4" />
+
+
 Analisando o gráfico acima podemos ter uma ideia sobre o desempenho do paralelismo
+
 - Para esse estudo, foi executado o código 31 vezes para ser possível tirar uma média mais precisa
-- 
+ 
 - Com isso foi possível verificar que o processo paralelo com 5 threads teve uma apresentação melhor entre os 3
-- 
+ 
 - O uso de 10 threads acabou não trazendo necessáriamente um ganho adicional
-- 
+  
 - Isso mostra que há um excelente ponto na quantidade de threads, porém também deve se levar em consideração o tamanho da quantidade do arquivo de entrada e da arquitetura da máquina onde está ocorrendo os testes
