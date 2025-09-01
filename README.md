@@ -44,7 +44,29 @@ O programa vai medir o tempo de execução de cada abordagem, assim permitindo a
 - Linux Ubuntu  24.04.3 LTS
 - Utilizado o Visual Studio Code para realização do projeto
 - O Microsoft Office Excel para a criação do gráfico comparativo
+- Foi foi os testes em um notebook da Lenovo 30 Gamming com processador i5-11300H com 16 Gb de memória RAM
 
 # Como executar
 1. Clone o repositório
-git clone 
+git clone https://github.com/Andrei-SantAnna/Entrega-2.git
+2. Prepare o arquivo de entrada:
+Não é necessário utilizar o arquivo Entrega_01.txt, se quiser testar com seus próprios dados pode criar utilizando o notepad para ser lido, lembrando que deve alterar no código o nome do arquivo a ser lido
+3. Compilando e Executando
+Depois de clonado no terminal bash escreva e execute o comando
+javac *.java
+Depois o comando:
+java Main
+Depois de executado será exibido no console o tempo das três abordagens como no exemplo abaixo:
+Tempo (1 thread): 78 ms
+Tempo (5 threads): 52 ms
+Tempo (10 threads): 57 ms
+E cria o arquivo Primos.txt, onde contém somente os números primos do arquivo de entrada
+4. Comprovando se os números são realmente primos
+Utilize o site: https://pt.numberempire.com/primenumbers.php , ele verifica se o número no arquivo é realmente um primo, para comprovação da eficiência do código
+# Análise de Desempenho
+<img width="1653" height="993" alt="Gráfico" src="https://github.com/user-attachments/assets/83b4a782-267b-46d4-926e-7093991f85e4" />
+Analisando o gráfico acima podemos ter uma ideia sobre o desempenho do paralelismo
+- Para esse estudo, foi executado o código 31 vezes para ser possível tirar uma média mais precisa
+- Com isso foi possível verificar que o processo paralelo com 5 threads teve uma apresentação melhor entre os 3
+- O uso de 10 threads acabou não trazendo necessáriamente um ganho adicional
+- Isso mostra que há um excelente ponto na quantidade de threads, porém também deve se levar em consideração o tamanho da quantidade do arquivo de entrada e da arquitetura da máquina onde está ocorrendo os testes
